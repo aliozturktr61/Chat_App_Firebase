@@ -9,3 +9,6 @@ import './styles/styles.scss'
 
 - firebase
 - sass# Chat_App_Firebase
+
+
+![chat](https://github.com/user-attachments/assets/0a00f3f0-d3dc-458d-9ebb-926ffdad1b77)
